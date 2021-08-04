@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "formik": "^2.2.9",
+    "yup": "^0.32.9"
   }
 }
